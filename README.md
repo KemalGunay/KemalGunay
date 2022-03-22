@@ -13,7 +13,7 @@ Let's connect
 * Email: kemalgnay@gmail.com
 
 
-🐍 Python Stack
+**🐍 Python Stack**
 
 Natural Language Processing: spaCy, gensim, NLTK
 Machine Learning: TensorFlow, Scikit-learn
@@ -21,13 +21,13 @@ Data Science: Pandas, Numpy
 Demo: Matplotlib, Seaborn
 Misc Tools: TensorBoard, WandB
 
-R Stack
+**R Stack**
 
 Natural Language Processing: quanteda, tidytext
 Data Science: ggplot2, dplyr, tidyverse
 Machine Learning: TensorFlow, Keras
 
 
-Development
+**Development**
 
 Flask, Docker
