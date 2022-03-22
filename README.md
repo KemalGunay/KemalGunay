@@ -15,19 +15,18 @@ Let's connect
 
 **🐍 Python Stack**
 
-Natural Language Processing: spaCy, gensim, NLTK
-Machine Learning: TensorFlow, Scikit-learn
-Data Science: Pandas, Numpy
-Demo: Matplotlib, Seaborn
-Misc Tools: TensorBoard, WandB
+* Natural Language Processing: spaCy, gensim, NLTK
+* Machine Learning: TensorFlow, Scikit-learn
+* Data Science: Pandas, Numpy
+* Demo: Matplotlib, Seaborn
+* Misc Tools: TensorBoard, WandB
 
 **R Stack**
 
-Natural Language Processing: quanteda, tidytext
-Data Science: ggplot2, dplyr, tidyverse
-Machine Learning: TensorFlow, Keras
-
+* Natural Language Processing: quanteda, tidytext
+* Data Science: ggplot2, dplyr, tidyverse
+* Machine Learning: TensorFlow, Keras
 
 **Development**
 
-Flask, Docker
+* Flask, Docker
