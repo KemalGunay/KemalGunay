@@ -15,7 +15,7 @@ Let's connect
 
 **🐍 Python Stack**
 
-* Natural Language Processing: spaCy, gensim, NLTK
+* Natural Language Processing: Spark NLP, spaCy, gensim, NLTK
 * Machine Learning: TensorFlow, Scikit-learn
 * Data Science: Pandas, Numpy
 * Demo: Matplotlib, Seaborn
