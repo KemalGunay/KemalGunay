@@ -29,4 +29,4 @@ Let's connect
 
 **Development**
 
-* Flask, Docker
+* Flask, Docker, Kafka
