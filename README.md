@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Skilled in programming with Python & RStudio. And also contributed to the scientific knowledge with three journal papers, and numerous conference papers.
+Skilled in programming with Python & RStudio. And also contributed to the scientific knowledge with four journal papers, and numerous conference papers.
 
 I am looking for opportunities to develop my skills and expand my knowledge in the field of data analysis and data science.
 
@@ -29,4 +29,4 @@ Let's connect
 
 **Development**
 
-* Flask, Docker, Kafka
+* JavaScript, HTML, CSS, Flask, Docker, Kafka
