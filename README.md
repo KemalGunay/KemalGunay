@@ -11,7 +11,7 @@ Let's connect
 * WEBSITE  : https://gunaykemal.com
 * MEDIUM   : https://medium.com/@kemalgunay
 * KAGGLE   : https://www.kaggle.com/kemalgunay
-* Email.   : kemalgnay@gmail.com
+* Email   : kemalgnay@gmail.com
 
 
 **🐍 Python Stack**
