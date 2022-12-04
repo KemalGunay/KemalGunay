@@ -7,11 +7,11 @@ I am looking for opportunities to develop my skills and expand my knowledge in t
 
 Let's connect
 
-* https://www.linkedin.com/in/kemal-gunay/
-* https://gunaykemal.com
-* https://medium.com/@kemalgunay
-* https://www.kaggle.com/kemalgunay
-* Email: kemalgnay@gmail.com
+* LINKEDIN : https://www.linkedin.com/in/kemal-gunay/
+* WEBSITE  : https://gunaykemal.com
+* MEDIUM   : https://medium.com/@kemalgunay
+* KAGGLE   : https://www.kaggle.com/kemalgunay
+* Email.   : kemalgnay@gmail.com
 
 
 **🐍 Python Stack**
